@@ -1,8 +1,11 @@
 SUMITHRA - Aspiring Software Developer
 
-Welcome to my GitHub profile. I’m sumi, an Computer Science and Engineering Graduate focused on software Development, Front-End Development, Web Development, Back-End Development and Full-Stack Development.
+Welcome to my GitHub profile. 
+I’m sumi, I am an Computer Science and Engineering Graduate focused on software Development, Front-End Development, Web Development, Back-End Development and Full-Stack Development.
 Here’s a glimpse of what I’m working on:
- 💼 Projects
+
+💼 Projects
+
 
 🛠️ My Tech Stack
 **Languages**: Python, HTML, CSS, JavaScript, SQL.
@@ -10,7 +13,7 @@ Here’s a glimpse of what I’m working on:
 **Tools**: VScode, Git-Hub.
 **Databases**: MySQL.
 
-## 📩 Get In Touch
+📩 Get In Touch
 **Email**: sumithrauma2003@gmail.com
 **LinkedIn**: https:\\linkedin.com
 
